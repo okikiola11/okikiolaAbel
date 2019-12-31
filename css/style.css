@@ -1,0 +1,26 @@
+body {
+    background-color: #eee;
+    text-align: center;
+}
+
+#image {
+    width: 80%;
+}
+
+#img-div {
+    background-color: #ffffff;
+    padding: 25px;
+    
+}
+
+#resume {
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+}
+
+#more {
+    font-weight: bold;
+}
